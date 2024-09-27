@@ -1,12 +1,8 @@
 # Leif Tastad
 # UWYO COSC 1010
-# Submission Date
+# 9/26/2024
 # Lab 03 
-# Lab Section: 
-# Sources, people worked with, help given to: 
-# your
-# comments
-# here
+# Lab Section: 13
 
 
 
